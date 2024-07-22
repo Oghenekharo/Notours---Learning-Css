@@ -1,0 +1,14 @@
+{
+  "name": "notours",
+  "version": "1.0.0",
+  "description": "Landing page for notours",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass sass/main.scss css/style.css -w"
+  },
+  "author": "Oghenekharo",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.77.8"
+  }
+}
